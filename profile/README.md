@@ -1,4 +1,4 @@
-# .github<!--
+<!--
   SAIRAN LABS
   Independent Technology & Design
   ————————————————————————————————
@@ -10,8 +10,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sairanlabs/.github/main/assets/logo-light.svg">
-  <img src="https://raw.githubusercontent.com/sairanlabs/.github/main/assets/logo-dark.svg" height="48" alt="Sairan Labs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sairanlabs/.github/main/assets/logo-light.png">
+  <img src="https://raw.githubusercontent.com/sairanlabs/.github/main/assets/logo-dark.png" height="48" alt="Sairan Labs" />
 </picture>
 
 </div>
